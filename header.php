@@ -13,7 +13,7 @@
 	<body <?php body_class(); ?>>
 
 <div class="off-canvas-wrapper">
-<div class="off-canvas-wrapper-inner classname" data-off-canvas-wrapper>
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
   <?php get_template_part( 'parts/content', 'offcanvas' ); ?>
 
