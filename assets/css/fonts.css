@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'LemonTuesday';
+  src: url('../fonts/lemontuesday/LemonTuesday.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RistrettoPro';
+  src: url('../fonts/ristrettopro/RistrettoPro-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 300;
+  font-style: italic;
+  src: local('HelveticaNeue-LightItalic'), url('../fonts/helvetica/HelveticaNeueCyr-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue Roman';
+  font-weight: normal;
+  font-style: normal;
+  src: local('HelveticaNeue-Roman'), url('../fonts/helvetica/HelveticaNeueCyr-Roman.otf') format('opentype');
+}

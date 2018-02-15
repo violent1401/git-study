@@ -1,0 +1,6 @@
+a,
+button,
+input[type=submit]{
+  outline: none !important;
+  transition: all 0.35s cubic-bezier(.17,.84,.44,1) 0.1s;
+}

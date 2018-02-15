@@ -1,0 +1,19 @@
+.row {
+  max-width: 73.125rem;
+  margin-right: auto;
+  margin-left: auto; }
+@media (min-width: 48em) {
+	.row {
+	  max-width: 46.875rem;
+	}
+}
+@media (min-width: 62em) {
+  .row {
+    max-width: 60.625rem;
+  }
+}
+@media (min-width: 75em) {
+  .row {
+    max-width: 73.125rem;
+  }
+}
